@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Adonis.
 - 🌱 I’m currently learning LuaU.
-- ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white) _(that's all I know)_
+- ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 - 💬 Ask me about Roblox lua or Adonis
 - 📫 How to reach me: Message me on Roblox or Discord.
 - 😄 Pronouns: Don't care
