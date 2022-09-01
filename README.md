@@ -1,11 +1,7 @@
-### Hi there 👋
-
 - 🔭 I’m currently working on Adonis.
 - 🌱 I’m currently learning LuaU.
 - ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-- 💬 Ask me about Roblox lua or Adonis
-- 📫 How to reach me: Message me on Roblox or Discord.
-- 😄 Pronouns: Don't care
+😄 Pronouns: she/her
 - ⚡ Fun fact: aple
 -->
 <h2 align="center">Stats</h2>
@@ -26,7 +22,7 @@
 </p>
 
 
-### **Roblox:** [@pbstFusion](https://www.roblox.com/users/1320336816/profile)
+### **Roblox:** [@Dimensional_Fusion](https://www.roblox.com/users/1320336816/profile)
 ### **Discord:** @DimensionalFusion#7480
 
 ### What I do:
