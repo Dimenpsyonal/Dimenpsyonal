@@ -5,9 +5,9 @@
 - ⚡ Fun fact: aple
 -->
 <h2 align="center">Stats</h2>
-<a href="https://github.com/pbstFusion">
+<a href="https://github.com/LiveFireExercise">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pbstFusion" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=LiveFireExercise" alt="Profile Views Count">
   </p>
 </a>
 
@@ -22,11 +22,11 @@
 </p>
 
 
-### **Roblox:** [@Dimensional_Fusion](https://www.roblox.com/users/1320336816/profile)
-### **Discord:** @DimensionalFusion#7480
+### **Roblox:** [@LiveFireExercise](https://www.roblox.com/users/1320336816/profile)
+### **Discord:** @LiveFireExercise#7480
 
 ### What I do:
-- Development on the [ROBLOX](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for ROBLOX games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
+- Development on the [ROBLOX](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for Roblox games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
   - [📜] Luau scripting
   - [📱] UI design
   - [🛠️] Building (personal projects only)
