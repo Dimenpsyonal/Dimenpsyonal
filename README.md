@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=100%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=DimensionalFusion&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00fff2&hide_title=false&count_private=true&hide=stars" />
+      <img src="https://github-readme-stats.vercel.app/api/?username=LiveFireExercise&title_color=00fff2&text_color=00fff2&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00fff2&hide_title=false&count_private=true&hide=stars" />
     </td>
   </tr>
 </table>
