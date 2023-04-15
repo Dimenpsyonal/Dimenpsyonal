@@ -1,8 +1,8 @@
 - 🔭 I’m currently working on Adonis.
 - 🌱 I’m currently learning LuaU.
 - ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-😄 Pronouns: she/her
-- ⚡ Fun fact: aple
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: A group of camels is called a caravan.
 -->
 <h2 align="center">Stats</h2>
 <a href="https://github.com/LiveFireExercise">
@@ -26,11 +26,7 @@
 ### **Discord:** @LiveFireExercise#7480
 
 ### What I do:
-- Development on the [ROBLOX](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for Roblox games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
+- Development on the [Roblox](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for Roblox games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
   - [📜] Luau scripting
   - [📱] UI design
   - [🛠️] Building (personal projects only)
-
-### Contribution List
-- Added ;systemnotify to Adonis
-- Added lots of icons to Adonis notifications
