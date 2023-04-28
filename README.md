@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F738F6&width=435&lines=Hi%2C+I'm+Dimenpsyonal)](https://git.io/typing-svg)
+👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F738F6&width=435&lines=Hi%2C+I'm+Dimenpsyonal)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Adonis.
 - 🌱 I’m currently learning LuaU.
 - ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: A group of camels is called a caravan.
+<a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/561987403037016114)](https://discord.com/users/561987403037016114)
+</a>
 -->
 <h2 align="center">Stats</h2>
 <a href="https://github.com/LiveFireExercise">
