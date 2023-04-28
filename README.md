@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hiya+I'm+Dimenpsyonal)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F738F6&width=435&lines=Hi%2C+I'm+Dimenpsyonal)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Adonis.
 - 🌱 I’m currently learning LuaU.
