@@ -5,9 +5,12 @@
 - ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: A group of camels is called a caravan.
+
+---
 <a>
-[![Discord Presence](https://lanyard.cnrad.dev/api/561987403037016114)](https://discord.com/users/561987403037016114)
+  <img width="40%" src="https://lanyard-profile-readme.vercel.app/api/561987403037016114?hideTimestamp=true&idleMessage=Idle%20%20at%20the%20moment...&hideDiscrim=true" align="right" />
 </a>
+
 -->
 <h2 align="center">Stats</h2>
 <a href="https://github.com/LiveFireExercise">
