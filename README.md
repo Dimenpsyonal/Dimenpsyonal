@@ -8,9 +8,9 @@
 ---
 
 <h2 align="center">Stats</h2>
-<a href="https://github.com/LiveFireExercise">
+<a href="https://github.com/Dimenpsyonal">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=LiveFireExercise" alt="Profile Views Count">
+    <img src="https://komarev.com/ghpvc/?username=Dimenpsyonal" alt="Profile Views Count">
   </p>
 </a>
 
