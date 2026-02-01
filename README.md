@@ -1,11 +1,11 @@
-👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F738F6&width=435&lines=Hi%2C+I'm+Dimenpsyonal)](https://git.io/typing-svg)
+### **Roblox:** [@Dimenpsyonal](https://www.roblox.com/users/1320336816/profile)
+### **Discord:** @dimensionally
 
-- 🔭 I’m currently working on Adonis.
-- 🌱 I’m currently learning LuaU.
-- ![LUA](https://img.shields.io/badge/Luau-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: A group of camels is called a caravan.
----
+### What I do:
+- Development on the [Roblox](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for Roblox games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
+  - [📜] Luau scripting
+  - [📱] UI design
+  - [🛠️] Building (personal projects only)
 
 <h2 align="center">Stats</h2>
 <a href="https://github.com/Dimenpsyonal">
@@ -23,13 +23,3 @@
   </tr>
 </table>
 </p>
-
-
-### **Roblox:** [@Dimenpsyonal](https://www.roblox.com/users/1320336816/profile)
-### **Discord:** @dimensionally
-
-### What I do:
-- Development on the [Roblox](https://www.roblox.com) game platform, for personal projects as well as contributing to the open source [Adonis](https://github.com/Sceleratis/Adonis) admin system for Roblox games. Also, I wrote a comprehensive setup guide for Adonis on the DevForum which can be found [here](https://devforum.roblox.com/t/1535122).
-  - [📜] Luau scripting
-  - [📱] UI design
-  - [🛠️] Building (personal projects only)
